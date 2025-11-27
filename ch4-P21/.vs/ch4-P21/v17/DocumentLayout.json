@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\ch4-P21\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD7C6790-E631-452C-84AF-CBD5F385AEE6}|ch4-P21\\ch4-P21.vcxproj|C:\\Users\\User\\source\\repos\\ch4-P21\\ch4-P21\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BD7C6790-E631-452C-84AF-CBD5F385AEE6}|ch4-P21\\ch4-P21.vcxproj|solutionrelative:ch4-P21\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ch4-P21\\ch4-P21\\main.c",
+              "RelativeDocumentMoniker": "ch4-P21\\main.c",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ch4-P21\\ch4-P21\\main.c",
+              "RelativeToolTip": "ch4-P21\\main.c",
+              "ViewState": "AgIAACUAAAAAAAAAAADwvzMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-19T16:06:21.628Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
